@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [10/May/2018:20:01:34 +0800] "GET /login.html HTTP/1.1" 304 - http-bio-9101-exec-1 94
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:34 +0800] "GET /admin/index.html HTTP/1.1" 200 21713 http-bio-9101-exec-8 182
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:35 +0800] "GET /plugins/adminLTE/css/skins/_all-skins.min.css HTTP/1.1" 200 40757 http-bio-9101-exec-1 241
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:35 +0800] "GET /plugins/jQuery/jquery-2.2.3.min.js HTTP/1.1" 200 85659 http-bio-9101-exec-5 307
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:35 +0800] "GET /plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 121237 http-bio-9101-exec-9 453
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:35 +0800] "GET /css/style.css HTTP/1.1" 200 2389 http-bio-9101-exec-2 415
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:36 +0800] "GET /plugins/jQueryUI/jquery-ui.min.js HTTP/1.1" 404 1017 http-bio-9101-exec-4 863
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:36 +0800] "GET /plugins/adminLTE/js/app.min.js HTTP/1.1" 200 9923 http-bio-9101-exec-5 743
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:36 +0800] "GET /plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 37045 http-bio-9101-exec-1 1476
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:39 +0800] "GET /plugins/adminLTE/css/AdminLTE.css HTTP/1.1" 200 110374 http-bio-9101-exec-10 4569
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:40 +0800] "GET /img/user2-160x160.jpg HTTP/1.1" 200 7070 http-bio-9101-exec-8 143
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:40 +0800] "GET /plugins/jQueryUI/jquery-ui.min.js HTTP/1.1" 404 1017 http-bio-9101-exec-10 10
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:42 +0800] "GET /admin/home.html HTTP/1.1" 200 4468 http-bio-9101-exec-1 55
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:42 +0800] "GET /img/user4-128x128.jpg HTTP/1.1" 200 3477 http-bio-9101-exec-10 62
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:42 +0800] "GET /img/user3-128x128.jpg HTTP/1.1" 200 3511 http-bio-9101-exec-8 69
+0:0:0:0:0:0:0:1 - - [10/May/2018:22:49:43 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9101-exec-8 1
